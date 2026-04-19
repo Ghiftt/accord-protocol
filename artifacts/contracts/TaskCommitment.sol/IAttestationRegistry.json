@@ -1,0 +1,34 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "IAttestationRegistry",
+  "sourceName": "contracts/TaskCommitment.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "bytes32",
+          "name": "taskId",
+          "type": "bytes32"
+        },
+        {
+          "internalType": "bool",
+          "name": "passed",
+          "type": "bool"
+        },
+        {
+          "internalType": "address",
+          "name": "providerAA",
+          "type": "address"
+        }
+      ],
+      "name": "record",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

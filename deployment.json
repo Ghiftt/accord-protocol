@@ -1,0 +1,11 @@
+{
+  "network": "kite",
+  "deployedAt": "2026-04-19T16:33:07.507Z",
+  "contracts": {
+    "AUSD": "0x438a4E4F49a0397AcAc91Af7E02A3fa58704b136",
+    "ProviderVault": "0x644C438d519769ba1F78ac13D0284412fBB63C4A",
+    "VerifierV1": "0x9cC37B38f4EA6daCabE208e497534F33E31f2012",
+    "TaskCommitment": "0xF55ad0A78c54Ae3f19A6D0edaf1a78E2Fc2C0711",
+    "AttestationRegistry": "0xcD741f3241eb8F41f8B78Fa394CE66cc8eABa048"
+  }
+}
